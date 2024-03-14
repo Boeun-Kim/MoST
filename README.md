@@ -72,7 +72,7 @@ python train.py --save_path results
 
 - Pretrained weights can be downloaded via this [link]( https://drive.google.com/file/d/1yhkAoyDLJHRsJE5HWcyoJ2tprsyZ3msF/view?usp=sharing.). 
 
-  Make a directory `./pretrained/` and download **xia_pretrained.pth** into `./pretrained/`.
+  Make directory `./pretrained/` and download **xia_pretrained.pth** into `./pretrained/`.
 
 
 
