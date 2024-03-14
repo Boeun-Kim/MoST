@@ -1,6 +1,6 @@
 # MoST (CVPR 2024)
 
-This is the official implementation of "MoST: Motion Style Transformer between Diverse Action Contents" [[paper]](https://arxiv.org/abs/2403.06225) [[project]](https:)
+This is the official implementation of "MoST: Motion Style Transformer between Diverse Action Contents (CVPR 2024)" [[paper]](https://arxiv.org/abs/2403.06225) [[project]](https:)
 
 
 
