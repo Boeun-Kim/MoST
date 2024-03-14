@@ -1,0 +1,45 @@
+style_names:
+  ["angry", "childlike", "depressed", "neutral", "old", "proud", "sexy", "strutting"]
+
+content_full_names:
+  ["walk_s1", "walk_s2",
+   "walk_lturn_s1", "walk_rturn_s1", "walk_lturn_l1", "walk_lturn_l2",
+   "walk_l1", "walk_l2",
+   "walk_rturn_s2", "walk_lturn_s2", "walk_rturn_l1", "walk_lturn_l3",
+   "run", "run_lturn", "run_rturn",
+   "jump_1", "jump_2",
+   "punch_r", "punch_l", "punch_qr", "punch_ql",
+   "kick_l", "kick_r",
+   "trans_jump2walk", "trans_walk2jump", "trans_punch2kick", "trans_walk2punch", "trans_run2jump"]
+
+content_names:
+   ["walk", "run", "jump", "kick", "punch", "trans"]
+
+content_test_count:
+  {"walk": 3, "run": 1, "jump": 1, "kick": 1, "punch": 1, "trans": 0}
+
+train_all: True
+
+#################################################################
+joint_names:
+  ["root", "Hips", "LHip", "LUpLeg", "LLeg", "LFoot", "LToe", "RHip", "RUpLeg", "RLeg", "RFoot", "RToe", 
+  "LowBack", "Spine", "Spine1", "Neck", "Neck1", "Head", 
+  "LShoulder", "LArm", "LForeArm", "LHand", "LFingerBase", "LHandIdx", "LThumb",
+  "RShoulder", "RArm", "RForeArm", "Rhand", "RFingerBase", "RHandIdx", "RThmb"]
+
+njoints: 21
+selected_joints: [0,
+                   2, 3, 4, 5,
+                   7, 8, 9, 10,
+                   12, 13, 15, 16,
+                   18, 19, 20, 22,
+                   25, 26, 27, 29]
+
+parents: [-1,
+            0, 1, 2, 3,
+            0, 5, 6, 7,
+            0, 9, 10, 11,
+            10, 13, 14, 15,
+            10, 17, 18, 19]
+
+joint_dims: 7
