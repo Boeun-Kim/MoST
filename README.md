@@ -135,3 +135,16 @@ Please cite our work if you find it useful.
       primaryClass={cs.CV}
 }
 ```
+
+Please cite the below work if you use the code, as MoST adopts the transformer architecture of GL-Transformer.
+
+```
+@inproceedings{kim2022global,
+  title={Global-local motion transformer for unsupervised skeleton-based action learning},
+  author={Kim, Boeun and Chang, Hyung Jin and Kim, Jungho and Choi, Jin Young},
+  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part IV},
+  pages={209--225},
+  year={2022},
+  organization={Springer}
+}
+```
