@@ -126,13 +126,12 @@ Thanks to the great resources.
 Please cite our work if you find it useful.
 
 ```
-@misc{kim2024most,
-      title={MoST: Motion Style Transformer between Diverse Action Contents}, 
-      author={Boeun Kim and Jungho Kim and Hyung Jin Chang and Jin Young Choi},
-      year={2024},
-      eprint={2403.06225},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{kim2024most,
+  title={MoST: Motion Style Transformer between Diverse Action Contents},
+  author={Kim, Boeun and Kim, Jungho and Chang, Hyung Jin and Choi, Jin Young},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1705--1714},
+  year={2024}
 }
 ```
 
